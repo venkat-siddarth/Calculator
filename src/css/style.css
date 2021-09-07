@@ -1,0 +1,48 @@
+.hist-data
+{
+    text-align: right;
+    box-sizing: border-box;
+    height: 20px;
+    padding-right: 20px;
+    color: grey;
+    background-color: white;
+}
+button {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(189, 189, 189);
+    margin: 0;
+    border: 1px solid grey;
+    font-size: 25px;
+}
+.App{
+    margin-left: 10px;
+    width: 400px;
+    height: auto;
+    background-color:rgb(189, 189, 189);
+    
+}
+.result {
+    box-sizing: border-box;
+    width: 100%;
+    border: none;
+    height: 40px;
+    text-align: right;
+    padding-right: 20px;
+    font-size: 25px;
+}
+.column-3{
+    padding: 0;
+    width:75%;
+    float:left;
+}
+.column-2
+{
+    width:50%;
+    float:left;
+}
+.column-1{
+    
+    width: 25%;
+    float:left;
+}
